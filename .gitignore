@@ -1,0 +1,7 @@
+local/git/*
+!local/git/.gitkeep
+local/ssh/*
+!local/ssh/.gitkeep
+local/aws/*
+!local/aws/.gitkeep
+dotfiles_*/
